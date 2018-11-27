@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/64d0d6c6b5920f22e0c24841cc941f2f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7ceab0e417cf1e454e21d411b13f3cd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/1434a373876e25b6c01af0a7ab0b817b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/1c830de8b83b55eb5a6a0c895b9c6b1a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.21/3beb08c67673033183c8652572680587876e64b5/kotlin-stdlib-jre7-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3beb08c67673033183c8652572680587876e64b5">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b5311d4351347f8b3f3f104afaa10c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9281e122711a0989c156f9a800e34f5e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/0e122fd3b09c6b47e3db9eb801470f14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/6503904343c8f1d96e6f117fc7e04d02/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/d64187eb2d9d1521be3421aa8c6774a8625cdde8/kotlin-stdlib-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d64187eb2d9d1521be3421aa8c6774a8625cdde8">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1ba0d450d5648fe918969449ee4cf99/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f6419c3f9f1295cffaf8c115495fc007/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d793dbf12c092709b7862f002176ad76/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ab0df633a6a53ceac25e3879fa1a4dac/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bd9b247377d8be24d2b6b4e295f892c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/1609a5d34c882d7754325cf99f0fa582/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/49bb930efde3949f3372799b83ce9649/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/494e4104949e3720d8a7087fef58517c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/cf67d2a45a1f9e82a1d1621f95920a4e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/de389cef65174bed7084eb7e8ee80c5c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhernandezo/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/mhernandezo/Desktop/Cursos/RayWenderlich/1-002-the-starter-app/start/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+
+</items>
