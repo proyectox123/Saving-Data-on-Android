@@ -47,7 +47,13 @@ object FileRepository : DropRepository {
     }
 
     override fun clearAllDrops() {
-
+        try{
+            val fileList = dropsDirectory().list()
+            fileList.map { dropFile(it).delete() }
+            dropsDirectory().delete()
+        }catch (e: IOException){
+            Log.e("FileRepository", "Error deleting drops")
+        }
     }
 
     private fun getContext() = DataDropApplication.getAppContext()
