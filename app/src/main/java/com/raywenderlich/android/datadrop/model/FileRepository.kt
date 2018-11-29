@@ -43,7 +43,7 @@ object FileRepository : DropRepository {
     }
 
     override fun clearDrop(drop: Drop) {
-
+        dropFile(dropFilename(drop)).delete()
     }
 
     override fun clearAllDrops() {
