@@ -52,7 +52,16 @@ object FileRepository : DropRepository {
 
     private fun getContext() = DataDropApplication.getAppContext()
 
-    private fun dropsDirectory() = getContext().getDir("drops", Context.MODE_PRIVATE)
+    //private fun dropsDirectory() = getContext().getDir("drops", Context.MODE_PRIVATE)
+
+    private fun dropsDirectory(): File {
+        val dropsDirectory = File(getContext().getExternalFilesDir(null), "drops")
+        if(!dropsDirectory.exists()){
+            dropsDirectory.mkdirs()
+        }
+
+        return dropsDirectory
+    }
 
     private fun dropFile(fileName: String) = File(dropsDirectory(), fileName)
 
