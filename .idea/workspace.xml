@@ -17,9 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11f5c7b6-6e41-4d41-9b77-2c8dd872f21d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/datadrop/model/SQLiteRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/datadrop/model/SQLiteRepository.kt" afterDir="false" />
-    </list>
+    <list default="true" id="11f5c7b6-6e41-4d41-9b77-2c8dd872f21d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +81,11 @@
       <file leaf-file-name="SQLiteRepository.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/datadrop/model/SQLiteRepository.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="180">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding>
+                <element signature="e#50#169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2338,7 +2339,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32983193" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.32983193" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
@@ -2513,8 +2514,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/datadrop/model/SQLiteRepository.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="e#50#169#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
