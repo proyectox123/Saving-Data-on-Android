@@ -25,10 +25,10 @@ object SharedPrefsRepository : DropRepository {
             .map { gson.fromJson(it, Drop::class.java) }
 
     override fun clearDrop(drop: Drop) {
-
+        sharedPrefs().edit().remove(drop.id).apply()
     }
 
     override fun clearAllDrops() {
-
+        sharedPrefs().edit().clear().apply()
     }
 }
