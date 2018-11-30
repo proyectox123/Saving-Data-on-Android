@@ -35,7 +35,11 @@ class SQLiteRepository : DropRepository {
     }
 
     override fun clearDrop(drop: Drop) {
-
+        database.delete(
+                DropTable.NAME,
+                DropTable.Columns.ID + " = ?",
+                arrayOf(drop.id)
+        )
     }
 
     override fun clearAllDrops() {
