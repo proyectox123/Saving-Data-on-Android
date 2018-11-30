@@ -55,6 +55,7 @@ class SQLiteRepository : DropRepository {
         put(DropTable.Columns.LATITUDE, drop.latLng.latitude)
         put(DropTable.Columns.LONGITUDE, drop.latLng.longitude)
         put(DropTable.Columns.DROP_MESSAGE, drop.dropMessage)
+        put(DropTable.Columns.MARKER_COLOR, drop.markerColor)
     }
 
     private fun queryDrops(where: String?, whereArgs: Array<String>?): DropCursorWrapper{
