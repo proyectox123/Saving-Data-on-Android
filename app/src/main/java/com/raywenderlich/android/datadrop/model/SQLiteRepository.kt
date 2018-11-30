@@ -43,7 +43,11 @@ class SQLiteRepository : DropRepository {
     }
 
     override fun clearAllDrops() {
-
+        database.delete(
+                DropTable.NAME,
+                null,
+                null
+        )
     }
 
     private fun getDropContentValues(drop: Drop) =  ContentValues().apply {
