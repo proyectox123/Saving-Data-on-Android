@@ -18,7 +18,7 @@ object MapPrefs {
         //commit - synchronously
     }
 
-    fun getMarkerColor(): String = sharedPrefs().getString(KEY_MARKER_COLOR, "Red")
+    fun getMarkerColor(): String = sharedPrefs().getString(KEY_MARKER_COLOR, MarkerColor.RED_COLOR)
 
     fun saveMapType(mapType: String){
         val editor = sharedPrefs().edit()
